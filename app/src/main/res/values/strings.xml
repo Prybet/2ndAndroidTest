@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Second Evaluation From Android APPS - Mr Prybet</string>
+    <string name="place">99</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="price">99.000.000</string>
+    <string name="car_image">car_image</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="lbl_hp">Horse de Power</string>
+    <string name="txt_hp">900</string>
+    <string name="txt_year">2021</string>
+    <string name="lbl_year">Año</string>
+    <string name="lbl_price">USD</string>
+    <string name="txt_price">99.000.000</string>
+    <string name="lbl_model">Model</string>
+    <string name="txt_model">Car Model</string>
+    <string name="lbl_stock">Stock</string>
+    <string name="txt_stock">200</string>
+    <string name="buy">BUY</string>
+    <string name="add_favorites">Fav</string>
+    <string name="version">Deluxe Version:</string>
+    <string name="color">Color</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">User Name</string>
+    <string name="pin">Pin</string>
+    <string name="log_in">Log In</string>
+    <string name="sing_in">Create an Account</string>
+    <string name="create">Create</string>
+    <string name="account_detail">Account Detail </string>
+    <string name="update">Update Account</string>
+    <string name="deposit">Deposit</string>
+    <string name="deposit_balance">Deposit Balance</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="tip">tip: Swipe LEFT to sell your car</string>
+    <string name="balance">Balance: $</string>
+    <string name="balance_number">999999999</string>
+
+    <!-- in Spanish
+
+    <string name="place">99</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="price">99.000.000</string>
+    <string name="car_image">car_image</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="lbl_hp">Caballos de Potencia</string>
+    <string name="txt_hp">900</string>
+    <string name="txt_year">2021</string>
+    <string name="lbl_year">Año</string>
+    <string name="lbl_price">USD</string>
+    <string name="txt_price">99.000.000</string>
+    <string name="lbl_model">Modelo</string>
+    <string name="txt_model">modelo auto</string>
+    <string name="lbl_stock">Stock</string>
+    <string name="txt_stock">200</string>
+    <string name="buy">Comprar</string>
+    <string name="add_favorites">Fav</string>
+    <string name="version">Version Deluxe:</string>
+    <string name="color">Color</string>
+    <string name="welcome">BIENVENIDO</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="pin">Pin</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="sing_in">Crear Una Cuenta</string>
+    <string name="create">Crear</string>
+    <string name="account_detail">Detalles de tu cuenta </string>
+    <string name="update">Actualizar Cuenta</string>
+    <string name="deposit">Deposito</string>
+    <string name="deposit_balance">Depositar Saldo</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="tip">tip: Swipe IZQUIERDA para vender su auto</string>
+    <string name="balance">Saldo: $</string>
+    <string name="balance_number">999999999</string>
+    -->
+
+
+</resources>
